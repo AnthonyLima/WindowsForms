@@ -1,0 +1,31 @@
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\bin\Debug\Bloc.exe.config
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\bin\Debug\Bloc.exe
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\bin\Debug\Bloc.pdb
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\bin\Debug\Bloc.xml
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.frmBloc.resources
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.Resources.resources
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.vbproj.GenerateResource.Cache
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.exe
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.xml
+D:\Isur\2014-1\Fundamentos de Desarrollo de Aplicaciones con .Net\IntroduccionVB\Bloc\obj\Debug\Bloc.pdb
+D:\VisualStudio02\WindowsForms\Bloc\bin\Debug\Bloc.exe.config
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.exe
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.xml
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.pdb
+D:\VisualStudio02\WindowsForms\Bloc\bin\Debug\Bloc.exe
+D:\VisualStudio02\WindowsForms\Bloc\bin\Debug\Bloc.pdb
+D:\VisualStudio02\WindowsForms\Bloc\bin\Debug\Bloc.xml
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.frmBloc.resources
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.Resources.resources
+D:\VisualStudio02\WindowsForms\Bloc\obj\Debug\Bloc.vbproj.GenerateResource.Cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\bin\Debug\Bloc.exe.config
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\bin\Debug\Bloc.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\bin\Debug\Bloc.pdb
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\bin\Debug\Bloc.xml
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.vbprojResolveAssemblyReference.cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.frmBloc.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.Resources.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.vbproj.GenerateResource.Cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.xml
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\Bloc\obj\Debug\Bloc.pdb

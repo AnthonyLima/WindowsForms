@@ -1,0 +1,20 @@
+D:\VisualStudio02\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe.config
+D:\VisualStudio02\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe
+D:\VisualStudio02\WindowsForms\BlocMDI\bin\Debug\BlocMDI.pdb
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csprojResolveAssemblyReference.cache
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Form1.resources
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.MDIParent1.resources
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Properties.Resources.resources
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csproj.GenerateResource.Cache
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.exe
+D:\VisualStudio02\WindowsForms\BlocMDI\obj\Debug\BlocMDI.pdb
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe.config
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\bin\Debug\BlocMDI.pdb
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csprojResolveAssemblyReference.cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Form1.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.MDIParent1.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Properties.Resources.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csproj.GenerateResource.Cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.pdb

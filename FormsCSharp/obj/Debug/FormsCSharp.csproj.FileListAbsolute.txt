@@ -1,0 +1,20 @@
+D:\VisualStudio02\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.exe.config
+D:\VisualStudio02\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.exe
+D:\VisualStudio02\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.pdb
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.csprojResolveAssemblyReference.cache
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.Form1.resources
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.Properties.Resources.resources
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.csproj.GenerateResource.Cache
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.exe
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.pdb
+D:\VisualStudio02\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.FormDialogo.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.exe.config
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\bin\Debug\FormsCSharp.pdb
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.csprojResolveAssemblyReference.cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.Form1.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.FormDialogo.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.Properties.Resources.resources
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.csproj.GenerateResource.Cache
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.exe
+E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\FormsCSharp\obj\Debug\FormsCSharp.pdb
