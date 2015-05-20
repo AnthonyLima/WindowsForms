@@ -49,6 +49,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Nuevo Archivo";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -56,7 +57,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        public System.Windows.Forms.TextBox textBox1;
     }
 }
 

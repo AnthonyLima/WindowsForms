@@ -18,3 +18,13 @@ E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI
 E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csproj.GenerateResource.Cache
 E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.exe
 E:\ANTHONY\CarpetaUSB\Aplicaciones en NET\WindowsForms\BlocMDI\obj\Debug\BlocMDI.pdb
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe.config
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.exe
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.pdb
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\bin\Debug\BlocMDI.exe
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\bin\Debug\BlocMDI.pdb
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Form1.resources
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.MDIParent1.resources
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.Properties.Resources.resources
+C:\Users\Meli\Desktop\proyectos\GitHub\WindowsForms\BlocMDI\obj\Debug\BlocMDI.csproj.GenerateResource.Cache

@@ -109,5 +109,15 @@ namespace BlocMDI
         {
 
         }
+
+        private void saveToolStripButton_Click(object sender, EventArgs e)
+        {
+            SfdGuardar.Filter = "Archivos de texto (*.txt)|*.txt|Todos los archivos (*.*)|*.*";
+            SfdGuardar.ShowDialog();
+            //if(SfdGuardar.FileName != "")
+            //{
+            //    Archivo.GuardarArchivo(SfdGuardar.FileName, Form1.textBox1.Text);
+            //}
+        }
     }
 }

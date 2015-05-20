@@ -14,7 +14,7 @@ Public Class frmBloc
 		dlgGuardar.Filter = "Archivos de texto|*.txt"
 		dlgGuardar.ShowDialog()
 		If (dlgGuardar.FileName <> "") Then
-			GuardarArchivo(dlgGuardar.FileName, txtEditor.Text)
+            GuardarArchivo(dlgGuardar.FileName, txtEditor.Text)
 		End If
 	End Sub
 
